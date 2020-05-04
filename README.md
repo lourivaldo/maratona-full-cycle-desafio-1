@@ -21,7 +21,7 @@ O primeiro passo para que você consiga acompanhar muito bem a Maratona é ter o
 
 ### Resposta
 
-##### Imagem disponível em [lourivaldo/maratona-full-cycle-desafio-1](https://hub.docker.com/r/lourivaldo/maratona-full-cycle-desafio-1])
+##### Imagem disponível em [lourivaldo/maratona-full-cycle-desafio-1](https://hub.docker.com/r/lourivaldo/maratona-full-cycle-desafio-1)
 
 ```
 sudo docker build -t lourivaldo/maratona-full-cycle-desafio-1 .
