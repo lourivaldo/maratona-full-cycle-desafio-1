@@ -1,0 +1,14 @@
+{
+  "name": "maratona-full-cycle",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <a href=\"http://nestjs.com/\" target=\"blank\"><img src=\"http://maratona.fullcycle.com.br/public/img/logo-maratona.png\"/></a> </p>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
